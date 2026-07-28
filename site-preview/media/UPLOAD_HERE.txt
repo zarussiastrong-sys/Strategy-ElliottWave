@@ -1,0 +1,1 @@
+Upload the media files from FINAL_TRADING_TILDA_SITE/media to this folder. Keep filenames unchanged.
